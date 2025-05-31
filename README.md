@@ -65,3 +65,4 @@ Modèles IA de prédiction (ex: RandomForest, LSTM)
 Analyse de sentiment via NewsAPI
 
 Interface Web ou Dashboard
+je voulais que mon ia soit lstm et aprenne de ces erreur de plus qu'elle soit capable de acheter et de vendre des action sur alpaga la version de test si je lui demande mais aussi me faire des test de prediction et d'analyse

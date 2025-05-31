@@ -38,3 +38,6 @@ def get_historical_data(symbol: str, start: str, end: str):
         raise ValueError(f"❌ Impossible de récupérer les données pour {symbol}")
     
     return data
+
+def get_stock_data(symbol, start, end):
+    return yf.download(symbol, start=start, end=end)
