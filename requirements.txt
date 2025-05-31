@@ -7,3 +7,6 @@ scikit-learn  # Pour l'IA
 textblob
 requests
 yfinance # conturne les restriction de données de Alpaca
+newsapi-python
+tensorflow
+time
